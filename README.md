@@ -7,7 +7,7 @@ Practica 1
 
 <p>
   1.- Toma de requerimientos
-<p/>
+</p>
 
   link de archivo
   
@@ -23,7 +23,7 @@ Practica 1
   
 <p>
   3.- Crea tu primer Wireframe UX
-<p/>
+</p>
 
 <p>
   4.- Ahora el UI
