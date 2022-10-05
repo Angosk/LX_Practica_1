@@ -26,4 +26,4 @@ Practicas
   4.- Ahora el UI
 <P/>
  
- 
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3d8782fec25373005a29c2ed4799daa3d15f…6f6e74656e742f75706c6f6164732f323032322f30392f4f6e426f617264696e672e706e67">…</a>
