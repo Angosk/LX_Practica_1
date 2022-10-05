@@ -15,7 +15,7 @@ Practicas
   
 <p dir="auto">
   2.- Publico objetivo
-  <a href="https://youtu.be/pmoQ0gzqYM4" rel="nofollow">Ingresar a Microsoft Teams</a>
+  <a href="https://youtu.be/pmoQ0gzqYM4" rel="nofollow">Archivo</a>
 </p>
 <a href="htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png" rel="nofollow">archivo</a>
 <p>
