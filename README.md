@@ -27,6 +27,6 @@ Practica 1
 
 <p>
   4.- Ahora el UI
-<P/>
+</p>
  
  
