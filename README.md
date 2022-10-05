@@ -18,7 +18,7 @@ Practica 1
 <p dir="auto">
   
   <a href="https://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png" rel="nofollow">2.- Publico objetivo</a>
-  ![("https://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png")]
+
 </p>
   
 <p>
