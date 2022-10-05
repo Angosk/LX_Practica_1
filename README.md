@@ -9,11 +9,9 @@ Practica 1
   1.- Toma de requerimientos
 
 </p>
-
-  link de archivo
   
 <p> 
-  a.- Crea tu buyer persona
+  a.- Buyer persona
 </p>
   
 <p dir="auto">
@@ -25,12 +23,12 @@ Practica 1
   
 <p>
   
-  <a href="https://github.com/Angosk/LX_Practica_1/blob/main/AbogabootWireframe.pdf">3.- Crea tu primer Wireframe UX</a>
+  <a href="https://github.com/Angosk/LX_Practica_1/blob/main/AbogabootWireframe.pdf">3.- Wireframe UX</a>
 
 </p>
 
 <p>
-  4.- Ahora el UI
+  4.- UI
 </p>
  
  
