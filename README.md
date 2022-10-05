@@ -13,11 +13,10 @@ Practicas
   a.- Crea tu buyer persona
 </p>
   
-<p>
+<p dir="auto">
   2.- Publico objetivo
-</p>
- <a target="_blank" rel="noopener noreferrer nofollow" href=
-    "htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png">…</a>==$0
+  <a target="_blank" rel="noopener noreferrer nofollow" href=
+    "htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png">…</a>
 </p>
 
 <p>
