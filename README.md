@@ -15,7 +15,7 @@ Practicas
   
 <p dir="auto">
   2.- Publico objetivo
-  <a href="htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png">archivo</a>
+  <a href="htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png" rel="nofollow">archivo</a>
 </p>
 
 <p>
@@ -26,3 +26,4 @@ Practicas
   4.- Ahora el UI
 <P/>
  
+ <a href="https://youtu.be/pmoQ0gzqYM4" rel="nofollow">Ingresar a Microsoft Teams</a>
