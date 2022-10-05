@@ -16,9 +16,9 @@ Practicas
 <p dir="auto">
   2.- Publico objetivo
   <a href="htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png" rel="nofollow">Ingresar a Microsoft Teams</a>
-  <a href="htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png" rel="nofollow">archivo</a>
+  
 </p>
-
+<a href="htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png" rel="nofollow">archivo</a>
 <p>
   3.- Crea tu primer Wireframe UX
 <p/>
