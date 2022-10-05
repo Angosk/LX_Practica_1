@@ -15,8 +15,7 @@ Practicas
   
 <p dir="auto">
   2.- Publico objetivo
-  <a target="_blank" rel="noopener noreferrer nofollow" href=
-    "htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png">…</a>
+  <a href="htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png">archivo</a>
 </p>
 
 <p>
