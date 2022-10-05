@@ -14,10 +14,10 @@ Practicas
 </p>
   
 <p dir="auto">
-  2.- Publico objetivo
-  <a href="https://youtu.be/pmoQ0gzqYM4" rel="nofollow">Archivo</a>
+  
+  <a href="https://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png" rel="nofollow">2.- Publico objetivo</a>
 </p>
-<a href="htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png" rel="nofollow">archivo</a>
+  <a href="htps://github.com/Angosk/LX_Practica_1/blob/main/abogabootPublicoObjetivo.png" rel="nofollow">archivo</a>
 <p>
   3.- Crea tu primer Wireframe UX
 <p/>
