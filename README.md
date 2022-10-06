@@ -11,7 +11,7 @@ Practica 1
 </p>
   
 <p> 
-  >a.- Buyer persona
+  a.- Buyer persona
 </p>
   
 <p dir="auto">
