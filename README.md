@@ -11,8 +11,7 @@ Practica 1
 </dl>
   
 <p>  
- 2.- Publico objetivo
- 
+ <a href="https://github.com/Angosk/LX_Practica_1/blob/main/Target%20Audience%20Abogaboot.pdf">2.- Publico objetivo</a> 
 </p>
   
 <p>  
