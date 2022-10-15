@@ -5,21 +5,23 @@ Primer práctica de LaunchX
 Practica 1
 </h2>
 
-<dl>
+<ol>
+    <li>
         <dt><a href="https://github.com/Angosk/LX_Practica_1/blob/main/1.-%20Requerimientos%20Abogaboot.pdf">1.- Toma de requerimientos</a></dt>
         <dd><a href="https://github.com/Angosk/LX_Practica_1/blob/main/abogabootBuyerPerson.png">a.- Buyer persona</a></dd>
-</dl>
-  
-<p>  
- <a href="https://github.com/Angosk/LX_Practica_1/blob/main/Target%20Audience%20Abogaboot.pdf">2.- Publico objetivo</a> 
-</p>
-  
-<p>  
-  <a href="https://github.com/Angosk/LX_Practica_1/blob/main/AbogabootWireframe.pdf">3.- Wireframe UX</a>
-</p>
+    </li>
 
-<p>
-  4.- UI
-</p>
- 
+    <li>
+        <a href="https://github.com/Angosk/LX_Practica_1/blob/main/Target%20Audience%20Abogaboot.pdf">Publico objetivo</a> 
+    </li>
+
+    <li>
+        <a href="https://github.com/Angosk/LX_Practica_1/blob/main/AbogabootWireframe.pdf">Wireframe UX</a>
+    </li>
+
+    <li>
+        UI
+    </li>
+</ol>
+
  
