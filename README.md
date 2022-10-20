@@ -2,7 +2,11 @@
 Primer práctica de LaunchX
 
 <h2>
-Practica 1
+Practica Abooogaboot 
+</h2>
+
+<h2>
+    Desarrollo de distintas utilidades para el diseño de una aplicación requerida
 </h2>
 
 <p>
