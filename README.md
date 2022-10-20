@@ -2,7 +2,7 @@
 Primer práctica de LaunchX
 
 <h2>
-Practica Abooogaboot 
+Practica Aboogaboot 
 </h2>
 
 <h2>
